@@ -1,5 +1,15 @@
 # Todo CRUD App
 
+## Features
+
+The app has basic todo list features:
+
+- Ability to Create, Read, Edit and Delete tasks (CRUD).
+- Mark tasks as done or not done.
+- Edit task bodies after creation.
+- Basic search functionality.
+- Nice, Clean and Polished UI powered by Bootstrap.
+
 ## Running
 
 > Note: An XAMPP installation is expected.
