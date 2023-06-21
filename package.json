@@ -1,0 +1,15 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo app",
+  "keywords": [
+    "todo",
+    "app",
+    "crud"
+  ],
+  "author": "Omar Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
