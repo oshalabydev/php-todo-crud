@@ -6,7 +6,7 @@
 
 Put the app files in `<xampp_dir>/htdocs/`, run all the servers using the XAMPP manager app.
 
-Go to `http://localhost` (The port and the path are system dependant, we expect that you know you're way around).
+Go to `http://localhost` (The port and the path are system dependant, we expect that you know your way around).
 
 ## Database Configuration
 
