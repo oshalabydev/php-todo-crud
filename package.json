@@ -1,7 +1,7 @@
 {
-  "name": "todo-app",
+  "name": "php-todo-crud",
   "version": "1.0.0",
-  "description": "Todo app",
+  "description": "Todo CRUD App",
   "keywords": [
     "todo",
     "app",
