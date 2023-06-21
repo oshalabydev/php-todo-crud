@@ -4,7 +4,7 @@
 
 The app has basic todo list features:
 
-- Ability to Create, Read, Edit and Delete tasks (CRUD).
+- Ability to Create, Read, Update and Delete tasks (CRUD).
 - Mark tasks as done or not done.
 - Edit task bodies after creation.
 - Basic search functionality.
