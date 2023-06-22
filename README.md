@@ -51,5 +51,7 @@ define("DB_NAME", "<db_name>");
 The app uses Bootstrap for all the styling. You need to install it:
 
 ```bash
-npm i bootstrap@5.3.0
+npm install bootstrap@5.3.0
 ```
+
+> Please note that the app uses Bootstrap v5.3.
